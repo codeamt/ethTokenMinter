@@ -22,7 +22,7 @@ Once Metamask and Ganache are installed and running: <br>
 <b>1. Clone this repo:</b><br>
 
 ```
-git clone 
+git clone https://github.com/codeamt/ethTokenMinter.git
 ```
 <br>
 
@@ -52,7 +52,7 @@ migrate --network ropsten
 ```
 <br>
 Migrating the contracts will populate a json file <i><b>addresses.json</i></b> in the frontend for the react app to access.
-
+<br>
 <b>4. Run the dapp</b>
 
 (from the front directory)<br>
