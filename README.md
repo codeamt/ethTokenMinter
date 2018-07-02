@@ -51,8 +51,8 @@ compile --network ropsten
 migrate --network ropsten
 ```
 <br>
-Migrating the contracts will populate a json file <i><b>addresses.json</i></b> in the frontend for the react app to access.
-<br>
+Migrating the contracts will populate a json file <i><b>addresses.json</i></b> in the frontend for the react app to access.<br>
+
 <b>4. Run the dapp</b>
 
 (from the front directory)<br>
