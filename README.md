@@ -52,9 +52,9 @@ migrate --network ropsten
 ```
 <br>
 Migrating the contracts will populate a json file <i><b>addresses.json</i></b> in the frontend for the react app to access.<br>
-
+<br>
 <b>4. Run the dapp</b>
-
+<br>
 (from the front directory)<br>
 ```
 //if you haven't already
