@@ -1,0 +1,11 @@
+.TokensPage {
+  padding: 2em;
+  margin-top: 50px;
+  background: #333;
+  margin-top: -30px;
+}
+
+.TokensPage-tokens {
+  max-width: 800px;
+  margin: 50px auto;
+}

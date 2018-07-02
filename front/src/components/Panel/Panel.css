@@ -1,0 +1,21 @@
+.Panel {
+  width: 70%;
+  margin: 0 auto;
+  height: 200px;
+  padding: 20px;
+  background: grey;
+  color: black;
+  border: 1px solid black;
+  margin-top: 1em;
+  border-radius: 5px;
+}
+
+h1 {
+  color: black;
+}
+
+.page-header {
+  background: #fff;
+  padding: 2em;
+  margin-top: -10px;
+}
